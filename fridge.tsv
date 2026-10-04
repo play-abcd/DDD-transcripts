@@ -169,3 +169,5 @@ date	sticker	patch	reason
 2026-10-04	apple	0.0-before-the-first-demo	made the game's copy of the library an upstream it pulls from, with the pull written down as a script, instead of a test that fails on drift
 2026-10-04	apple	0.0-before-the-first-demo	made publishing idempotent: the server ends up holding exactly what was built, so pages nothing makes any more come down
 2026-10-04	apple	0.0-before-the-first-demo	looked at the recap list on a real page and dropped it: the story page's commits already are the summary
+2026-10-04	apple	0.0-before-the-first-demo	caught README.md jumping onto its own line, which was a stylesheet rule counting tags and ignoring words, in every project's pages
+2026-10-04	apple	0.0-before-the-first-demo	added the DKIM record herself; Titan now calls the domain's reputation good and verified
