@@ -172,3 +172,4 @@ date	sticker	patch	reason
 2026-10-04	apple	0.0-before-the-first-demo	caught README.md jumping onto its own line, which was a stylesheet rule counting tags and ignoring words, in every project's pages
 2026-10-04	apple	0.0-before-the-first-demo	added the DKIM record herself; Titan now calls the domain's reputation good and verified
 2026-10-04	apple	0.0-before-the-first-demo	kept the claim email reply-able, so a subscriber who paid and got stuck can just write back
+2026-10-04	apple	0.0-before-the-first-demo	showed the harness lines, chose develop@ for now, and asked for the commit-recovery issue to be written so building it needs nothing from her
