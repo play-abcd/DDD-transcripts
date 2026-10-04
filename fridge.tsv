@@ -163,3 +163,8 @@ date	sticker	patch	reason
 2026-10-02	apple	0.0-before-the-first-demo	watched the stars and asked for exactly what was missing: faster, a rainbow she could see, spinning, blobby tips, thrown sideways, no grey glitter
 2026-10-02	apple	0.0-before-the-first-demo	spin the way they fly, keep the rainbow after the burst, and let a click on the rainbow burst its star
 2026-10-02	apple	0.0-before-the-first-demo	settled the leftover rainbow: fade as if the star flew on, nothing new at the front; and asked for streaky glitter, twice as much
+2026-10-04	apple	0.0-before-the-first-demo	asked for the site's two halves to become a library anyone can use, kept apart, and proved by building this site byte for byte the same
+2026-10-04	apple	0.0-before-the-first-demo	chose the films as a third part of their own, and sent the library into the shared copy that already existed rather than a second one
+2026-10-04	apple	0.0-before-the-first-demo	settled the three forks in the shared library: the story-page look for everyone, the built film system over the older plan, films only where a project asks
+2026-10-04	apple	0.0-before-the-first-demo	made the game's copy of the library an upstream it pulls from, with the pull written down as a script, instead of a test that fails on drift
+2026-10-04	apple	0.0-before-the-first-demo	made publishing idempotent: the server ends up holding exactly what was built, so pages nothing makes any more come down
