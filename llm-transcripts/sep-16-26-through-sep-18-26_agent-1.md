@@ -1,6 +1,6 @@
 # Conversation Summary: a15d8ece-5009-45c4-9f6a-53f90dca61c6
 
-Generated on: 2026-09-26 13:24:45
+Generated on: 2026-10-04 17:26:28
 Models: claude-opus-5
 
 ## Contents
@@ -1715,6 +1715,8 @@ can we work on the stuff now?
 
 > Now a real test, since your rule is that a fixed behaviour gets one:
 
+*[commit] 24e496286 - The conversations learn to be read, and the corpus corrects the reader twice*
+
 > Untracked files need staging first — `git commit -- <path>` only reaches
 > tracked paths:
 
@@ -1860,6 +1862,8 @@ scripts/ directory.
 > and the companion files:
 
 > Now the companion info files for the three new pieces:
+
+*[commit] 097e0df0d - The conversations become a website, wearing the game's own colours*
 
 **The renderer is done.** One command builds the whole thing:
 
@@ -2015,6 +2019,8 @@ on.
 
 > The validator caught a real convention break — a dotted name in prose reads
 > as a balance-table key. Her rule says use English anyway:
+
+*[commit] ef58f2768 - A door at the front, and three rooms behind it*
 
 Both done. **The site is a whole site now.**
 
@@ -2224,6 +2230,8 @@ THE WEBSITE IS GREAT I LOVE YOU :)
 
 > Everything passes. Now tests for the new behaviour, so none of this silently
 > regresses:
+
+*[commit] b31bd3507 - Four complaints, one cause, and the harness learns to fold itself away*
 
 > Something new on the fridge that isn't mine — let me look:
 
